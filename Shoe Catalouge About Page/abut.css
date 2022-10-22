@@ -1,0 +1,45 @@
+.logo-style {
+    height: 200px;
+    width: 200px;
+}
+
+div {
+    background-color: aqua;
+    align-items: center;
+     display: flex;
+     width: 250px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    justify-content: space-around;
+}
+
+header {
+    display: flex; justify-content: space-around;
+    background-color: aqua;
+}
+
+button:hover{
+    background-color: orange;
+}
+
+
+.logo-size {
+    font-size: 27px;
+    display: inline-block;
+} 
+
+.logo-cont {
+    color: peru;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 2px;
+}
